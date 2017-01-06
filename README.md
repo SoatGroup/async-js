@@ -118,7 +118,7 @@ Aller à l'url [http://localhost:8080/ex14-async-await-babel.html]
 
 [Node.js]: <https://nodejs.org>
 [Git]: <https://git-scm.com/>
-[http://localhost:8080/ex11-co.html]: <[http://localhost:8080/ex11-co.html]>
-[http://localhost:8080/ex12-co-babel.html]: <[http://localhost:8080/ex12-co-babel.html>
+[http://localhost:8080/ex11-co.html]: <http://localhost:8080/ex11-co.html>
+[http://localhost:8080/ex12-co-babel.html]: <http://localhost:8080/ex12-co-babel.html>
 [http://localhost:8080/ex13-async-await.html]: <http://localhost:8080/ex13-async-await.html>
 [http://localhost:8080/ex14-async-await-babel.html]: <http://localhost:8080/ex14-async-await-babel.html>
