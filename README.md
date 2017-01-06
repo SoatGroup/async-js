@@ -1,4 +1,4 @@
-### Pré-requis
+## Pré-requis
 
 Installer [Git] et [Node.js]
 
